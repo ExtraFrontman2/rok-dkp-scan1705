@@ -1,0 +1,8 @@
+dkp-scan-rok-bot/
+├── bot/
+│   ├── __init__.py
+│   ├── dkp_scanner.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
